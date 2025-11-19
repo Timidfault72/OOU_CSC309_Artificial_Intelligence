@@ -76,6 +76,6 @@ https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial
 ### Week 12 - : Integration & Mock Practical 
 Notebook: `notebooks/CSC309_Week11_PH_Student_Centred.ipynb` 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week11_MultiAgent_CA3_Student_Centred.ipynb)
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week12_Integration_Student_Centred.ipynb)
 
 This repository contains AI practical notebooks for CSC 309.
